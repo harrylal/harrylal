@@ -1,1 +1,1 @@
-![GIF](assets/gif3.gif)
+![GIF](assets/banner.png)
